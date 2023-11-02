@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'My Docs',
 			social: {
-				github: 'https://github.com/yuckdevchan',
+				github: 'https://github.com/yuckdevchan/sonic-screwdriver',
 			},
 			sidebar: [
 				{
@@ -19,7 +19,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'reference', watch: true },
 				},
 			],
 		}),
