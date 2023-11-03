@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: 2. Installation
 description: Installing Sonic Screwdriver
 ---
 To install Sonic Screwdriver, you can use the following commands:
