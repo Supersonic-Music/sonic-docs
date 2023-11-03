@@ -11,8 +11,8 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Intro',
-					autogenerate: { directory: 'intro', watch: true },
+					label: 'Getting Started',
+					autogenerate: { directory: 'Getting Started', watch: true },
 				},
 				{
 					label: 'Guides',
