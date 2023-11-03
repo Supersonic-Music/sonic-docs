@@ -11,16 +11,16 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Intro',
-					autogenerate: { directory: 'intro', watch: true },
+					label: 'Getting Started',
+					autogenerate: { directory: 'Getting Started', watch: true },
 				},
 				{
-					label: 'Guides',
-					autogenerate: { directory: 'guides', watch: true },
+					label: 'Configuration',
+					autogenerate: { directory: 'Configuration', watch: true },
 				},
 				{
 					label: 'Reference',
-					autogenerate: { directory: 'reference', watch: true },
+					autogenerate: { directory: 'Reference', watch: true },
 				},
 			],
 		}),

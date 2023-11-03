@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: 1. Introduction
 description: Intro to Sonic Screwdriver
 ---
 Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
